@@ -1,0 +1,18 @@
+{
+	"name": "TDI_Signage",
+	"description": "Sign variations and labelled storage.\nContains a wall cupboard with text.  And a version that acts as a preservation box.\nAnd a barrel with a text widget on top.  Because I have no idea how to do a curved text widget, let alone one curved in 2 dimensions.\nA wooden signpost, and a wall sign.  And a rectangular vellum poster, in portrait or landscape arrangement.\nTo edit the text on the storage, long activate and select interact. <- just so it doesn't pop everytime you put things away.",
+	"changeNote": "Initial split and bake",
+	"author": "Tiktaalik Dreaming",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 2508250,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "3555607130",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "TDI_Signage",
+	"revisionNumber": 1602774,
+	"snapshotId": 44276,
+	"fileSize": 1117782016
+}
